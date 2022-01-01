@@ -1,0 +1,2 @@
+- Hi, I’m Gopal Gawade
+- I’m a fresher front end developer with the knowledge of React & Redux.
