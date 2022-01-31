@@ -1,5 +1,5 @@
-- **Hi, I’m Gopal Gawade
-- **I’m a fresher front end developer with the knowledge of React & Redux.
+**Hi, I’m Gopal Gawade
+**I’m a fresher front end developer with the knowledge of React & Redux.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
