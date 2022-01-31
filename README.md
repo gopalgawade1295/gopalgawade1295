@@ -1,6 +1,6 @@
-<h1>Front End Developer</h1>
-<h3>- Hi, I’m Gopal Gawade.</h3>
-<h3>- I’m a fresher front end developer with the knowledge of React & Redux.</h3>
+<h2>Front End Developer</h2>
+<h4>- Hi, I’m Gopal Gawade.</h4>
+<h4>- I’m a fresher front end developer with the knowledge of React & Redux.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
