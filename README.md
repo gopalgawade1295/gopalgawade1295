@@ -1,4 +1,4 @@
-<h3 align="center">Front End Developer</h3>
+<h3>Front End Developer</h3>
 <h5>- Hi, I’m Gopal Gawade.</h5>
 <h5>- I’m a fresher front end developer with the knowledge of React & Redux.</h5>
 
