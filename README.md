@@ -1,6 +1,6 @@
 <h2>Front End Developer</h2>
 <h4>- Hi, I’m Gopal Gawade.</h4>
-<h4>- A self-taught fresher front-end developer, looking to fill a position of a front-end developer.</h4>
+<h4>- A self-taught front-end developer, looking to fill a position of a front-end developer.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
