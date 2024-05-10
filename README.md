@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopal Gawade.
 - 👀 I’m interested in Web Development.
-- 📫 How to reach me ...
+- 📫 LinkedIn: linkedin.com/in/gopalgawde1295
 - ⚡ Skills: React, Redux, JavaScript, HTML, CSS, Material UI, Git, Python (Basic), Node.js (Basic).
 
 <!---
